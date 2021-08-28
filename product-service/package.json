@@ -1,0 +1,15 @@
+{
+  "name": "test-aws-petshop",
+  "version": "1.0.0",
+  "description": "Test AWS API from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sergey Lubimov",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-webpack": "^5.5.2",
+    "webpack": "^5.51.1"
+  }
+}
